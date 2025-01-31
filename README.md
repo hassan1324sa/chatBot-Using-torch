@@ -40,8 +40,4 @@ Modify hyperparameters in `config.py` as needed.
 After training, the chatbot can respond to user inputs based on the learned patterns.
 
 ## Author
-Hassan1324sa
-
-## License
-This project is licensed under the MIT License.
-
+Hassan Mohamed
